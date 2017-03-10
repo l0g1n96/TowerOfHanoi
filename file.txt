@@ -1,0 +1,3 @@
+HanoiMoveDTO{diskNumber=1, fromPole=A, toPole=B}
+HanoiMoveDTO{diskNumber=2, fromPole=A, toPole=C}
+HanoiMoveDTO{diskNumber=1, fromPole=B, toPole=C}
